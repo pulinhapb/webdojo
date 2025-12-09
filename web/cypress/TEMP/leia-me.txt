@@ -1,0 +1,2 @@
+executar apenas Ct especifico , faz  : 
+    Mas se tiver no package.json , faz por linha de comando  :  npm run test:login
